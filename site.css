@@ -1,0 +1,121 @@
+/*
+    Name: Sebastian Siqueiros
+    Course: CSD 340
+    bioSite
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    color: #333333;
+}
+
+header {
+    background-color: #1f4e79;
+    color: white;
+    text-align: center;
+    padding: 25px;
+}
+
+h1 {
+    font-weight: 400;
+    margin: 0;
+}
+
+h2 {
+    font-weight: 400;
+    color: #1f4e79;
+    text-align: center;
+}
+
+h3 {
+    color: #d4af37;
+    text-align: center;
+}
+
+p {
+    line-height: 1.8;
+    font-size: 16px;
+    width: 90%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+#navbar {
+    overflow: hidden;
+    background-color: #2f75b5;
+    border-bottom: 5px solid #d4af37;
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+}
+
+#navbar a:hover {
+    background-color: #d4af37;
+    color: black;
+}
+
+#container {
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,.2);
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px rgba(0,0,0,.2);
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 300px;
+    border-radius: 10px;
+}
+
+figcaption {
+    text-align: center;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.button {
+    display: inline-block;
+    background-color: #1f4e79;
+    color: white;
+    text-decoration: none;
+    padding: 12px 18px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.button:hover {
+    background-color: #d4af37;
+    color: black;
+}
+
+.center {
+    text-align: center;
+}
+
+footer {
+    background-color: #1f4e79;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
