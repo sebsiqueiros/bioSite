@@ -2,5 +2,5 @@
 
 ## Contributors
 
-- Professor Kris Chaston
+- Sue Sampson
 - Sebastian Siqueiros
